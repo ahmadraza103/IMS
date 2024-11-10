@@ -22,9 +22,9 @@ This is a desktop Inventory Management System built with Python and Tkinter. It 
    pip install tk openpyxl
 ## Credentials:
 1. Admin:
-Username: admin
-Password: admin123
+- Username: admin
+- Password: admin123
 
 2. User:
-Username: user
-Password: user123
+- Username: user
+- Password: user123
